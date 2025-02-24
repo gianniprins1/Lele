@@ -79,7 +79,7 @@ jar {
 
 repositories {
     mavenCentral()
-    maven { url "http://repo.springsource.org/libs-snapshot" }
+    maven { url "http://repo.springsource.org/libs-snapshot"i }
 }
 
 dependencies {
